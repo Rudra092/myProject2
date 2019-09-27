@@ -1,7 +1,6 @@
-header {
-  background-image: url("header.png");
-  padding: 50px;
-
+.responsive {
+  width: 100%;
+  height: auto;
 }
 footer {
   background-color: #0099ff;
